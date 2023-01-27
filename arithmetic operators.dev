@@ -1,0 +1,15 @@
+#include <iostream>
+
+
+int main() {
+	
+	int stud = 20;
+	//stud = stud + 1 ;
+	stud *= 1 
+	cout << stud;
+	
+	
+	
+	
+	return 0;
+}
